@@ -42,24 +42,10 @@
   <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/xCyberpunkx/xCyberpunkx/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
-
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com/?user=xCyberpunkx&theme=dark)](https://git.io/streak-stats)" alt="readme stats"/>
-  <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com/?user=xCyberpunkx)](https://git.io/streak-stats)" alt="streak stats" />
-  <br/>
-</div>
-<br/>
-<hr/>
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
-
-<br/>
 
