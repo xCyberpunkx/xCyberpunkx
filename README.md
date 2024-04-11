@@ -61,7 +61,6 @@
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET
     </td>
-  </tr>
    <tr>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
@@ -71,8 +70,6 @@
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
   </tr>
- <tr>
- </tr>
 </table>
 
 ## Github stats 📊
