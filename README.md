@@ -9,7 +9,8 @@
 <br/>
 
 <h2> i use arch btw <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+![image](https://github.com/xCyberpunkx/xCyberpunkx/assets/116972275/ed8f461a-3794-42b5-9189-1015b495729a)
+
 </br>blockchain Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
