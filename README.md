@@ -21,7 +21,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
@@ -34,11 +34,11 @@
       <br>C++
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
           <td align="center" width="96">
