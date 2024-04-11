@@ -15,7 +15,7 @@
 </em></p>
 
 
-[![Linkedin: zineeddine](https://img.shields.io/badge/-zineeddine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/zine-eddine-rouabah-992b16265/)]]
+https://img.shields.io/badge/just%20the%20[message](https://img.shields.io/badge/just%20the%20message-8A2BE2)-8A2BE2
 [![GitHub zineeddine](https://img.shields.io/github/followers/xCyberpunkx?label=follow&style=social)](https://github.com/xCyberpunkx)
 
 
