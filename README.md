@@ -8,33 +8,28 @@
 
 <br/>
 
-<div align="center">
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+<h2> i use arch btw <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+</br>blockchain Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
- 
-<div align="center"> 
-  
-  <a href="https://www.linkedin.com/in/zine-eddine-rouabah-992b16265/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
-</div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql" /><br>
-</div>
+[![Linkedin: zineeddine](https://img.shields.io/badge/-zineeddine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/zine-eddine-rouabah-992b16265/)]]
+[![GitHub zineeddine](https://img.shields.io/github/followers/xCyberpunkx?label=follow&style=social)](https://github.com/xCyberpunkx)
 
-<br/>
-<hr/>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  code: [Javascript,HTML, CSS,C++,PHP,Solidity],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker,Laravel,Bash],
+  architecture: ["microservices", "event-driven", "design system pattern","MVC"], 
+
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <div align="center">
   <h2> My Contributions </h2>
