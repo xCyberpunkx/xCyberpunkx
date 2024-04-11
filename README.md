@@ -9,7 +9,7 @@
 <br/>
 
 <h2> i use arch btw <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-![image](https://github.com/xCyberpunkx/xCyberpunkx/assets/116972275/ed8f461a-3794-42b5-9189-1015b495729a)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN2cnl3MzlnMWM0bGRkZWt3Nm0wZjlleXR1OXkyem1vN2xjMWRrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
 
 </br>blockchain Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -22,11 +22,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const skills = {
   code: [Javascript,HTML, CSS,C++,PHP,Solidity],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker,Laravel,Bash],
   architecture: ["microservices", "event-driven", "design system pattern","MVC"], 
-
 }
 ```
 
