@@ -5,9 +5,9 @@
 <h3 align="center">A software developer from Algeria</h3>
 
 <h2 align="center" >i use arch btw <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img margin-right="0" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN2cnl3MzlnMWM0bGRkZWt3Nm0wZjlleXR1OXkyem1vN2xjMWRrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
+<img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN2cnl3MzlnMWM0bGRkZWt3Nm0wZjlleXR1OXkyem1vN2xjMWRrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="230" align="right">
 
-</br>blockchain Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+blockchain Developer<img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
