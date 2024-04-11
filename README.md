@@ -143,7 +143,7 @@
   <a href="https://github.com/xCyberpunkx/github-readme-stats"><img alt="xCyberpunkx's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCyberpunkx&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
-[![trophy](https://github-profile-trophy.vercel.app/?username=xCyberpunkx&row=1&margin-w=40)](https://github.com/xCyberpunkx/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
