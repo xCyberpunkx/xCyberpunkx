@@ -17,7 +17,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const skills = {
+const skills  {
   code: [Javascript,HTML, CSS,C++,PHP,Solidity],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker,Laravel,Bash],
   architecture: ["microservices", "event-driven", "design system pattern","MVC"], 
