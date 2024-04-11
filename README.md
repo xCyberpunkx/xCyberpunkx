@@ -15,8 +15,7 @@
 </em></p>
 
 
-https://img.shields.io/badge/just%20the%20[message](https://img.shields.io/badge/just%20the%20message-8A2BE2)-8A2BE2
-[![GitHub zineeddine](https://img.shields.io/github/followers/xCyberpunkx?label=follow&style=social)](https://github.com/xCyberpunkx)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
