@@ -14,7 +14,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E_+Software+Engineer+%26+System+Architect;%3E_+Security+%7C+Performance+%7C+Elegance;%3E_+sudo+rm+-rf+%2Fboring_code" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🇩🇿%20ALGERIA%20%7C%20LINUX%20PURIST%20%7C%20C++%20ARTISAN&fontSize=28&fontColor=00ff41&animation=twinkling&fontAlignY=32" width="100%"/>
 
 </div>
 
@@ -175,12 +174,12 @@ fn continuous_learning() {
 <div align="center">
 
 ```assembly
-; Life is a compilation of choices
-; Each function we write shapes reality
-; Security isn't optional — it's foundational
-; Performance optimization is a form of respect
-; Clean code is self-documenting poetry
-; Discipline breeds excellence
+ Life is a compilation of choices
+ Each function we write shapes reality
+ Security isn't optional — it's foundational
+ Performance optimization is a form of respect
+ Clean code is self-documenting poetry
+ Discipline breeds excellence
 ```
 
 > **"The best programs are those that don't just work—they inspire."**
