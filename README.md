@@ -12,9 +12,8 @@
                                    R O U A B A H
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E_+Software+Engineer+%26+System+Architect;%3E_+Security+%7C+Performance+%7C+Elegance;%3E_+sudo+rm+-rf+%2Fboring_code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E_+Software+Engineer+%7C+Elegance;%3E_+sudo+rm+-rf+%2Fboring_code" alt="Typing SVG" />
 
-<div><br></br></div>
 </div>
 
 ---
