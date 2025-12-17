@@ -43,7 +43,7 @@ public:
     
     void compile_life() {
         while (alive) {
-            learn(); code(); optimize(); secure(); repeat();
+            learn(); optimize(); secure(); repeat();
         }
     }
 };
