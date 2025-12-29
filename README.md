@@ -1,20 +1,12 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=ZINE%20EDDINE%20ROUABAH&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-  
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Systems+%26+Network+Architect;Security+Enthusiast" alt="Typing SVG"/>
-  </h1>
-  
-  <p align="center">
-    <em>Crafting elegant solutions to complex problems</em>
-  </p>
-  
-  <br/>
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=xCyberpunkx&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/xCyberpunkx)
-  [![GitHub followers](https://img.shields.io/github/followers/xCyberpunkx?style=for-the-badge&color=00ff41&labelColor=000000)](https://github.com/xCyberpunkx?tab=followers)
-  [![Years Badge](https://img.shields.io/badge/Coding%20Journey-2020%20→%20Present-00ff41?style=for-the-badge&labelColor=000000)](https://github.com/xCyberpunkx)
+# 👨‍💻 ZINE EDDINE ROUABAH
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Systems+%26+Network+Architect" alt="Typing SVG"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=xCyberpunkx&color=00ff41&style=flat-square)](https://github.com/xCyberpunkx)
+[![Followers](https://img.shields.io/github/followers/xCyberpunkx?style=flat-square&color=00ff41&labelColor=000000)](https://github.com/xCyberpunkx?tab=followers)
+[![Since](https://img.shields.io/badge/Since-2020-00ff41?style=flat-square&labelColor=000000)](https://github.com/xCyberpunkx)
   
 </div>
 
