@@ -1,13 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=ZINE%20EDDINE&fontColor=00FF41&fontSize=58&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20Systems%20Architect%20%7C%20Security%20Researcher&descAlignY=60&descSize=16"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Full-Stack+Software+Engineer;Systems+Programming+%26+Architecture;Network+Engineering+%7C+CCNA+Path;Building+Scalable%2C+Secure%2C+Performant+Systems" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=ZINE%20EDDINE%20ROUABAH&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Systems+%26+Network+Architect;Security+Enthusiast" alt="Typing SVG"/>
+  </h1>
+  
+  <p align="center">
+    <em>Crafting elegant solutions to complex problems</em>
+  </p>
   
   <br/>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=xCyberpunkx&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/xCyberpunkx)
   [![GitHub followers](https://img.shields.io/github/followers/xCyberpunkx?style=for-the-badge&color=00ff41&labelColor=000000)](https://github.com/xCyberpunkx?tab=followers)
-  [![Years Coding](https://img.shields.io/badge/Coding%20Since-2020-00ff41?style=for-the-badge&labelColor=000000)](https://github.com/xCyberpunkx)
+  [![Years Badge](https://img.shields.io/badge/Coding%20Journey-2020%20→%20Present-00ff41?style=for-the-badge&labelColor=000000)](https://github.com/xCyberpunkx)
+  
 </div>
 
 ---
