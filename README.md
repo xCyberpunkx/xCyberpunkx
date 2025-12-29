@@ -21,13 +21,13 @@
 class Developer {
 private:
     std::string name = "Zine Eddine Rouabah";
-    std::string role = "Systems Engineer & Security Researcher";
+    std::string role = "Software Engineering & Networking";
     std::vector<std::string> specializations = {
         "Systems Programming (C/C++)",
-        "Linux Kernel Internals",
+        "Web Development",
         "Network Security & Architecture",
         "Performance Optimization",
-        "Reverse Engineering"
+        "Reverse Engineering for fun"
     };
     
 public:
